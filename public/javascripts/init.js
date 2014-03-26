@@ -1,3 +1,4 @@
 $(function(){
-//some stuff init
+new AppRouter();
+Backbone.history.start();
 });
